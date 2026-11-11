@@ -2,8 +2,6 @@
 
 Un skill para Claude que construye el sitio web de tu negocio, pensado para el mercado latino. Hecho por [AmplifAI Me](https://amplifaime.ai).
 
-![Los cinco diseños: Cristal, Galería, Obra, Sazón y Cuidado](preview.png)
-
 ## Instalar
 
 ```bash
@@ -22,15 +20,13 @@ Luego dile a Claude: **"usa sitio-pro y hazme el sitio de mi negocio"**.
 
 ## Los cinco diseños
 
-| Diseño | Para quién | Ejemplo en vivo |
-|---|---|---|
-| Cristal | tecnología, apps, software | [yamamamos.com/cristal](https://yamamamos.com/cristal/) |
-| Galería | fotógrafos y creativos | [yamamamos.com/galeria](https://yamamamos.com/galeria/) |
-| Obra | contratistas | [yamamamos.com/obra](https://yamamamos.com/obra/) |
-| Sazón | restaurantes y comida | [yamamamos.com/sazon](https://yamamamos.com/sazon/) |
-| Cuidado | belleza, salud y servicios con cita | [yamamamos.com/cuidado](https://yamamamos.com/cuidado/) |
-
-Los negocios, teléfonos y reseñas de los ejemplos son ficticios. Fotos de muestra: Unsplash.
+| Diseño | Para quién |
+|---|---|
+| Cristal | tecnología, apps, software |
+| Galería | fotógrafos y creativos |
+| Obra | contratistas |
+| Sazón | restaurantes y comida |
+| Cuidado | belleza, salud y servicios con cita |
 
 ## Sobre qué está construido
 
