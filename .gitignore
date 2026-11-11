@@ -2,3 +2,4 @@ demos/
 deploy/
 .wrangler/
 .DS_Store
+test-run/

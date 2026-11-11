@@ -15,8 +15,8 @@ Luego dile a Claude: **"usa sitio-pro y hazme el sitio de mi negocio"**.
 ## Qué hace
 
 - Te pregunta lo que necesita: negocio, giro, ciudad, WhatsApp, servicios, fotos, idiomas.
-- Te propone uno de cinco diseños según tu giro.
-- Arma el sitio con lo que tus clientes sí usan: burbuja de WhatsApp, botón de llamar, formulario de prospectos, mapa con reseñas, español e inglés.
+- Te propone uno de cinco diseños según tu giro, y quita las secciones para las que no tienes datos en vez de inventarlas.
+- Arma el sitio con lo que tus clientes sí usan: burbuja de WhatsApp, botón de llamar, formulario de prospectos que puede llegar directo a tu WhatsApp, mapa, reseñas si tienes perfil de Google, español e inglés.
 - Lo revisa (tipografía, color, contraste, accesibilidad, celular) antes de entregarlo.
 - Lo publica gratis en Cloudflare Pages, si se lo pides.
 
@@ -34,7 +34,7 @@ Los negocios, teléfonos y reseñas de los ejemplos son ficticios. Fotos de mues
 
 ## Sobre qué está construido
 
-Sitio Pro no copia otros skills: los instala desde su fuente, con tu permiso, y los pone a trabajar en orden. El crédito es de sus autores.
+Sitio Pro no copia otros skills: los instala desde su fuente, con tu permiso y solo dentro de tu proyecto, y los pone a trabajar en orden. El crédito es de sus autores.
 
 | Skill | Para qué |
 |---|---|
